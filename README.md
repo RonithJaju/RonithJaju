@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Science and Machine Learning
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ronithjaju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronithjaju/) [![Gmail Badge](https://img.shields.io/badge/-ronithjaju-red?style=flat&logo=Gmail&logoColor=white)](mailto:ronithjaju@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ronithjaju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RonithJaju/) [![Gmail Badge](https://img.shields.io/badge/-ronithjaju-red?style=flat&logo=Gmail&logoColor=white)](mailto:ronithjaju@gmail.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500" height="300"/>
